@@ -6,4 +6,4 @@ end_time = 3
 
 while(start_time < end_time):
 	time.sleep(3);
-	webbrowser.open("www.youtube.com")
+	webbrowser.open("http://www.youtube.com")
